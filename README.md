@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyambabariya&show_icons=true&locale=en" alt="shyambabariya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madmax1311&" alt="madmax1311" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyambabariya&" alt="shyambabariya" /></p>
 
 [![An image of @madmax1311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madmax1311)](https://holopin.io/@madmax1311)
 
