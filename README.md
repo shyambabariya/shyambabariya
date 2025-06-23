@@ -115,7 +115,7 @@
 <br />
   <!-- contribution graph -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&theme=github-compact&bg_color=000000&title_color=ffffff&area_color=ffffff&line=39d252&point=fff" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&theme=github-compact&bg_color=000000&title_color=ffffff&area_color=65a765&line=39d252&point=fff" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&bg_color=ffffff&title_color=000&color=708090&area_color=65a765&line=39d252&point=000&area=true&hide_border=true" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Shyam's contribution graph" />
     </picture>
@@ -138,7 +138,7 @@
   <!-- repo 1 -->
   <a align="right" href="https://github.com/shyambabariya/JobLinker" title="JobLinker">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=JobLinker&theme=github_dark&title_color=39d252&icon_color=39d252&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=JobLinker&theme=github_dark&title_color=39d252&icon_color=39d252&border_color=fff&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=JobLinker&theme=graywhite&title_color=39d252&icon_color=39d252&border_color=39d252&border_radius=10.0" />
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=JobLinker&theme=graywhite&border_radius=10.0" alt="Shyam's repository stats - JobLinker" />
     </picture>
