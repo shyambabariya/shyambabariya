@@ -107,7 +107,7 @@
     <picture>
        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=000&text_color=fff&show_icons=true&locale=en&layout=compact" />
        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=fff&text_color=000&border_color=39d252&show_icons=true&locale=en&layout=compact" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=000&text_color=fff&show_icons=true&locale=en&layout=compact" alt="shyambabariya" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=000&text_color=fff&show_icons=true&locale=en&layout=compact" alt="Shyam's used Languages" />
     </picture>
     </a>
   </div>
