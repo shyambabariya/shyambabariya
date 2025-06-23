@@ -79,7 +79,6 @@
     <img src="https://github.com/shyambabariya/shyambabariya/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </div>
-
   <hr />
 
 <!-- stats -->
@@ -107,7 +106,7 @@
     <picture>
        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=000&text_color=fff&show_icons=true&locale=en&layout=compact" />
        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=fff&text_color=000&border_color=39d252&show_icons=true&locale=en&layout=compact" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&icon_color=39d252&title_color=39d252&bg_color=000&text_color=fff&show_icons=true&locale=en&layout=compact" alt="Shyam's used Languages" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=shyambabariya&locale=en&layout=compact" alt="Shyam's used Languages" />
     </picture>
     </a>
   </div>
@@ -117,7 +116,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&theme=github-compact&bg_color=000000&title_color=ffffff&area_color=65a765&line=39d252&point=fff" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&bg_color=ffffff&title_color=000&color=708090&area_color=65a765&line=39d252&point=000&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Shyam's contribution graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyambabariya&color=708090&area=true&hide_border=true" alt="Shyam's contribution graph" />
     </picture>
   </a>
 </p>
