@@ -123,6 +123,9 @@
 </p>
 <hr />
 
+<h2 align="center">😎Cool Stuff😎</h2>
+<br />
+
 [![An image of @madmax1311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madmax1311)](https://holopin.io/@madmax1311)
 
 <hr />
