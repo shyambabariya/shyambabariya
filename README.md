@@ -40,16 +40,16 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Creact%2Chtml%2Ccss%2Cjavascript%2Ctailwind&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Creact%2Chtml%2Ccss%2Cjavascript%2Ctailwind&theme=light" />
-          <img src="https://skillicons.dev/icons?i=java%2Creact%2Chtml%2Ccss%2Cjavascript%2Ctailwind&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cjavascript%2Cmongodb%2Cexpress%2Creact%2Cnodejs%2Cmysql%2Cdocker&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=java%2Cjavascript%2Cmongodb%2Cexpress%2Creact%2Cnodejs%2Cmysql%2Cdocker&theme=light" />
+          <img src="https://skillicons.dev/icons?i=java%2Cjavascript%2Cmongodb%2Cexpress%2Creact%2Cnodejs%2Cmysql%2Cdocker&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Credux%2Cgit&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Credux%2Cgit&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Credux%2Cgit&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux%2Cbootstrap%2Ctailwind%2Chtml%2Ccss%2Cgit%2Cgithub%2Cpostman&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=redux%2Cbootstrap%2Ctailwind%2Chtml%2Ccss%2Cgit%2Cgithub%2Cpostman&theme=light" />
+            <img src="https://skillicons.dev/icons?i=redux%2Cbootstrap%2Ctailwind%2Chtml%2Ccss%2Cgit%2Cgithub%2Cpostman&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
