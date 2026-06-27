@@ -130,32 +130,32 @@
 <hr />
 
 <!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2> -->
+<!-- <br /> -->
 <!-- first row -->
-<div width="100%" align="center">
+<!-- <div width="100%" align="center"> -->
   <!-- repo 1 -->
- <a align="right" href="https://github.com/shyambabariya/Zerodha-Clone" title="Zerodha-Clone">
+ <!-- <a align="right" href="https://github.com/shyambabariya/Zerodha-Clone" title="Zerodha-Clone">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=Zerodha-Clone&theme=github_dark&title_color=39d252&icon_color=39d252&border_color=fff&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=Zerodha-Clone&theme=graywhite&title_color=39d252&icon_color=39d252&border_color=39d252&border_radius=10.0" />
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=Zerodha-Clone&theme=graywhite&border_radius=10.0" alt="Shyam's repository stats - SoulTrip" />
     </picture>
-  </a>
+  </a> -->
  <!-- repo 2-->
- <a align="right" href="https://github.com/shyambabariya/SoulTrip" title="SoulTrip">
+ <!-- <a align="right" href="https://github.com/shyambabariya/SoulTrip" title="SoulTrip">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=SoulTrip&theme=github_dark&title_color=39d252&icon_color=39d252&border_color=fff&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=SoulTrip&theme=graywhite&title_color=39d252&icon_color=39d252&border_color=39d252&border_radius=10.0" />
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=SoulTrip&theme=graywhite&border_radius=10.0" alt="Shyam's repository stats - SoulTrip" />
     </picture>
-  </a>
+  </a> -->
  <!-- repo 2-->
-</div>
+<!-- </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
+<div width="100%" align="center"> -->
  <!-- repo 3-->
-<a align="right" href="https://github.com/shyambabariya/JobLinker" title="JobLinker">
+<!-- <a align="right" href="https://github.com/shyambabariya/JobLinker" title="JobLinker">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=JobLinker&theme=github_dark&title_color=39d252&icon_color=39d252&border_color=fff&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=shyambabariya&repo=JobLinker&theme=graywhite&title_color=39d252&icon_color=39d252&border_color=39d252&border_radius=10.0" />
@@ -163,12 +163,12 @@
     </picture>
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 <!-- spaces -->
 
-<br /><br /><br /><br /><br /><br />
+<!-- <br /><br /><br /><br /><br /><br /> -->
 
 <!-- show more repos -->
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://github.com/shyambabariya?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> -->
